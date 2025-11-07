@@ -1,0 +1,6 @@
+# Hugo 默认应该忽略的目录
+/public/
+/resources/
+
+# 其他应该忽略的文件
+.hugo_build.lock
