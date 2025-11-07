@@ -1,0 +1,22 @@
+---
+title: "孤独的人"
+slug: "gududeren"
+date: 2025-10-14T19:19:03
+type: "movie"
+draft: false 
+
+# Hugo Front Matter 字段
+vod_id: 10664
+vod_sub: ""
+vod_actor: "迈克尔·道格拉斯, 苏珊·萨兰登, 杰西·艾森伯格, 珍娜·费舍, 丹尼·德维托"
+vod_director: "布赖恩·科佩尔曼, 大卫·莱维恩"
+vod_area: "美国"
+vod_lang: "英语"
+vod_year: "2009"
+vod_remarks: "正片"
+vod_score: 5.0
+vod_hits: 529
+vod_pic: "https://yczy5.com/upload/vod/20250107-19/5785d2dbda59901dd6e3999e584be7a4.jpg"
+---
+
+年近六旬的本·卡尔曼（迈克尔·道格拉斯 Michael Douglas 饰）曾经是一个腰缠万贯的纽约汽车经销商，然而现在围绕他的却只有心脏病药物、桃色绯闻和糟糕的商业决策，他那才貌双全的爱人南希（苏珊·萨兰登 Susan Sarandon 饰）也离开了他，破产的他已经沦落到要向自己的女儿苏珊（珍娜·费舍 Jenna Fischer 饰）借钱的地步。虽然老头子坚持不看医生，并且拉拢各方势力，试图东山再起。然而另一方面，他还是管不住对美女的渴望，依然不加节制地勾搭女孩，甚至还与苏珊的好朋友发生了关系，这更使他众叛亲离。面对着生命余下不多的残羹，卡尔曼忽然发现自己原来竟已变得如此孤独，未来还留给了他怎样的选择？

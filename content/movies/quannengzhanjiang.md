@@ -1,0 +1,22 @@
+---
+title: "全能战将"
+slug: "quannengzhanjiang"
+date: 2025-10-15T16:00:56
+type: "movie"
+draft: false 
+
+# Hugo Front Matter 字段
+vod_id: 63752
+vod_sub: ""
+vod_actor: "大卫·布莱德利, 马克·达卡斯考斯, 约翰·藤冈"
+vod_director: "萨姆·佛斯特伯"
+vod_area: "美国"
+vod_lang: "英语"
+vod_year: "1992"
+vod_remarks: "正片"
+vod_score: 1.0
+vod_hits: 757
+vod_pic: "https://yczy5.com/upload/vod/20250108-6/f853f14fa49940322cc0387bacd2bfc7.jpg"
+---
+
+两个被武士道大师抚养成人的继兄弟因意妒和气愤而略有闲隙，当象徵家放族的剑赠与给被收养的弟安德鲁时，哥哥健次郎因气愤而变流氓并誓言要向弟弟讨回那把剑。

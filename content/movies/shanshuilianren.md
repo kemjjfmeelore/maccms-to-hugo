@@ -1,0 +1,22 @@
+---
+title: "山水恋人"
+slug: "shanshuilianren"
+date: 2025-10-15T15:59:51
+type: "movie"
+draft: false 
+
+# Hugo Front Matter 字段
+vod_id: 63489
+vod_sub: ""
+vod_actor: "范雷, 王皓, 徐文彬, 迟蓬, 小乐, 杨诚诚, 赵卓娜, 杨德民"
+vod_director: "韩志"
+vod_area: "中国大陆"
+vod_lang: "汉语普通话"
+vod_year: "2019"
+vod_remarks: "高清"
+vod_score: 7.0
+vod_hits: 97
+vod_pic: "https://yczy5.com/upload/vod/20250108-40/9db9664fe6f7f6318fc4e993cb1914aa.jpg"
+---
+
+加拿大华裔姑娘唐芷珊带着助手小乐专程赶回泰安参加泰山厨艺美食大赛，因大赛以赤鳞鱼为题，唐芷珊结识了当地的赤鳞鱼养殖户王东学。在王东学的帮助下，唐芷珊顺利取得厨艺美食大赛冠军。后来唐芷珊得知自己最强劲的对手孔惠民，竟是妈妈当年被迫分开的恋人，赤鳞鱼和泰山玉作为爱情线索翻开了这段刻骨铭心的情缘往事。

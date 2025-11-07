@@ -1,0 +1,8 @@
+baseURL = "/"
+languageCode = "zh-cn"
+title = "MACCMS 静态化站点" # 您的网站名称
+theme = "ananke"
+
+[params]
+  # 默认在首页显示的描述
+  description = "MACCMS 数据成功迁移到 Hugo 静态网站。"

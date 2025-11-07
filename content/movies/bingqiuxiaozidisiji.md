@@ -1,0 +1,22 @@
+---
+title: "冰球小子 第四季"
+slug: "bingqiuxiaozidisiji"
+date: 2025-10-15T14:22:48
+type: "movie"
+draft: false 
+
+# Hugo Front Matter 字段
+vod_id: 44586
+vod_sub: ""
+vod_actor: "杰瑞德·基苏, 塔斯亚·特莱斯, Harlan Blayne Kytwayhat, Blair Lamora, Keilani Rose, Jonathan-Ismael Diaby, Terry Ryan, 瑞安·麦克唐纳, Max Bouffard, Andrew Antsanen, Jon Mirasty, Brandon Nolan, Jordan Nolan, Keegan Long, Bourke Cazabon"
+vod_director: ""
+vod_area: "加拿大"
+vod_lang: "英语"
+vod_year: "2024"
+vod_remarks: "第6集完结"
+vod_score: 4.0
+vod_hits: 696
+vod_pic: "https://yczy5.com/upload/vod/20250108-69/d78c875adf76928db7648f31489fa49f.jpg"
+---
+
+Hulu 周三宣布，莱特肯尼衍生剧《肖尔西》已续订第三季，第二季将于本周五首播。今年秋天，六集新剧集将在萨德伯里拍摄。

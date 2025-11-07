@@ -1,0 +1,22 @@
+---
+title: "圣诞探戈"
+slug: "shengdantange"
+date: 2025-10-14T21:37:30
+type: "movie"
+draft: false 
+
+# Hugo Front Matter 字段
+vod_id: 33076
+vod_sub: ""
+vod_actor: "Giannis Bezos, Antinoos Albanis, Yannis Stankoglou"
+vod_director: "Nikos Koutelidakis"
+vod_area: "希腊"
+vod_lang: "希腊语"
+vod_year: "2011"
+vod_remarks: "正片"
+vod_score: 3.0
+vod_hits: 993
+vod_pic: "https://yczy5.com/upload/vod/20250327-1/7ce6074d38f69442c7dfe54ab16c6aca.jpg"
+---
+
+故事发生在风景如诗如画的希腊，彼时战争正在如火如荼的进行着，埃夫罗斯军营之中，扣人心弦的运筹帷幄背后隐藏了一段撼动人心的四角恋情。马诺里斯（Yannis Bezos 饰）深深的爱着他美丽的妻子佐伊（维基·帕帕多波罗 Vicky Papadopoulou 饰），然而这段感情注定是无望而又脆弱的，因为佐伊并不爱马诺里斯，她爱着的是名为斯戴法（雅尼斯·斯坦科格鲁 Yannis Stankoglou 饰）的年轻中尉。斯戴法也深深的爱慕着佐伊，圣诞节将至，斯戴法希望能够在舞会上邀请佐伊和他共舞一曲，为此，他找到了名为拉扎罗斯（安东尼斯·奥尔巴尼 Antinoos Albanis 饰）的士兵，希望后者能够教会他怎么跳舞。然而在教学的过程中，斯戴法发现，拉扎罗斯竟然对他产生了致命的吸引力。

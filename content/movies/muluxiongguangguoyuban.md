@@ -1,0 +1,22 @@
+---
+title: "目露凶光（国语版）"
+slug: "muluxiongguangguoyuban"
+date: 2025-10-15T16:08:16
+type: "movie"
+draft: false 
+
+# Hugo Front Matter 字段
+vod_id: 65365
+vod_sub: ""
+vod_actor: "刘青云, 梁家辉, 郭蔼明, 关宝慧, 钟景辉, 邹兆龙"
+vod_director: "林岭东"
+vod_area: "中国香港"
+vod_lang: "粤语"
+vod_year: "1999"
+vod_remarks: "正片"
+vod_score: 4.0
+vod_hits: 165
+vod_pic: "https://yczy5.com/upload/vod/20250108-39/b8f0ca17b635301db69fe572f9ce7023.jpg"
+---
+
+1967年，山景酒店发生灭门惨案，欧炳同因怀疑妻子有外遇，将其杀死后又与三岁儿子吞老鼠药自杀，三人的死状极其恐怖，房间的墙壁上写有“愿此刻永留”五个血字，留声机里正在重复播放“愿此刻永留”一曲。

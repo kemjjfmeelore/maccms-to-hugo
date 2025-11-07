@@ -1,0 +1,22 @@
+---
+title: "奔跑者 2025"
+slug: "benpaozhe2025"
+date: 2025-10-14T17:35:24
+type: "movie"
+draft: false 
+
+# Hugo Front Matter 字段
+vod_id: 1210
+vod_sub: ""
+vod_actor: "刘在锡, 李光洙, 河东勋, 金钟国, 池石镇, 宋智孝, 姜熙建, 全昭旻, 梁世灿, 池艺恩"
+vod_director: "Jo Hyo-jin, Im Hyung-taek, Kim Ju-hyung"
+vod_area: "韩国"
+vod_lang: "韩语"
+vod_year: "2025"
+vod_remarks: "第20251012期"
+vod_score: 4.0
+vod_hits: 607
+vod_pic: "https://yczy5.com/upload/vod/20250714-1/f102d55bac59bfbd6b5a97b56f2886c2.jpg"
+---
+
+Running Man是韩国SBS电视台周末娱乐节目《星期天真好》新的版块，是韩国著名主持人刘在石自“家族诞生”第一季结束后时隔五个月接手的SBS新艺能节目，作为刘在石的SBS艺能节目回归之作，running man致力于打造一个不同于过去real variety的新型态娱乐节目。可以说是SBS赌上自尊心的新艺能节目。2010年7月11日起作为‘星期日真好-1部’播放。 节目通过组队游戏获取金币或running ball 最后决定胜者，输的一队将接受惩罚。节目由刘在石，池石镇，HAHA，金钟国，Gary姜熙健，宋智孝，李光洙等搞笑性、艺能性极高的艺人主持。

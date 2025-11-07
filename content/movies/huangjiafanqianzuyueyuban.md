@@ -1,0 +1,22 @@
+---
+title: "皇家反千组 粤语版"
+slug: "huangjiafanqianzuyueyuban"
+date: 2025-10-14T19:06:30
+type: "movie"
+draft: false 
+
+# Hugo Front Matter 字段
+vod_id: 8999
+vod_sub: ""
+vod_actor: "欧阳震华, 古巨基, 傅明宪, 陈法蓉, 胡枫, 尹扬明"
+vod_director: "邝业生"
+vod_area: "中国香港"
+vod_lang: "国语,粤语"
+vod_year: "1997"
+vod_remarks: "第20集完结"
+vod_score: 1.0
+vod_hits: 900
+vod_pic: "https://yczy5.com/upload/vod/20250108-7/130d6dc408dece00ee8397bc3c25bba5.jpg"
+---
+
+现今社会中千案无日无之，老千为害往往杀人于无形。欧阳震华、古巨基、傅明宪等组成

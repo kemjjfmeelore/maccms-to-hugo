@@ -1,0 +1,22 @@
+---
+title: "麦兜故事"
+slug: "maidougushi"
+date: 2025-10-15T13:30:15
+type: "movie"
+draft: false 
+
+# Hugo Front Matter 字段
+vod_id: 37771
+vod_sub: ""
+vod_actor: "李晋纬, 林海峰, 吴君如, 黄秋生, Buxx, Banner"
+vod_director: "袁建滔"
+vod_area: "中国香港"
+vod_lang: "粤语"
+vod_year: "2001"
+vod_remarks: "正片"
+vod_score: 4.0
+vod_hits: 593
+vod_pic: "https://yczy5.com/upload/vod/20250108-40/29f2c526c1d2eaafdf142f8cfe9c59b5.jpg"
+---
+
+麦兜，一个长得不帅，头脑平平的小朋友。和妈妈麦太太，在香港一个叫大角咀的地方过着并不富裕却很快乐的生活。从麦兜带着妈妈的期望来到世界那一刻开始，他的脑海中一直飘满七彩幻想的泡泡。那个蓝天白云，椰林树影，水清沙白的童年的马尔代夫，那充满诱惑的圣诞火鸡的浓香，还有那个关于“抢包山”的奥运金牌的梦想，让麦兜平凡着他的平凡，却幸福着他的幸福。麦兜，和春田花花幼儿园的小朋友们一起，陪着我们，简单的在爱的呵护下慢慢长大。

@@ -1,0 +1,22 @@
+---
+title: "午夜凶铃3：贞相大白（日语版）"
+slug: "wuyexiongling3zhenxiangdabairiyuban"
+date: 2025-10-15T15:59:31
+type: "movie"
+draft: false 
+
+# Hugo Front Matter 字段
+vod_id: 63402
+vod_sub: ""
+vod_actor: "仲间由纪惠, 麻生久美子, 田边诚一, 浩歌"
+vod_director: "鹤田法男"
+vod_area: "日本"
+vod_lang: "日语"
+vod_year: "2000"
+vod_remarks: "正片"
+vod_score: 8.0
+vod_hits: 194
+vod_pic: "https://yczy5.com/upload/vod/20250108-45/ed5674b1811d4cba2649da1948f36b7a.jpg"
+---
+
+“诅咒录像带”的传言甚嚣尘上，人们既好奇又恐惧，然而始终无人了解山村贞子的身世和悲惨经历：贞子（仲間由紀恵 饰）的母亲志津子（雅子 饰）即是一个灵能者，最终却死状凄惨。继承了母亲的灵能力的贞子生活中同样充满坎坷，长大后她辗转来到东京，在名为“飞翔”的剧团努力打拼。不久，剧团当家花旦叶月爱子（奥貫薫 饰）离奇身亡，贞子则匪夷所思取代了她的位置。因其与生俱来的诡异神秘气质，贞子受到团员的猜疑和疏离，唯有负责音响效果的远山博（田辺誠一 饰）对她心存友善。只是，渺小不堪的温暖无法拯救贞子悲惨的人生……
