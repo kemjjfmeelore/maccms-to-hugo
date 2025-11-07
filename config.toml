@@ -1,9 +1,12 @@
 baseURL = "/"
 languageCode = "zh-cn"
-title = "MACCMS 静态化站点.." # 您的网站名称
-theme = "mainroad"
+title = "MACCMS 静态化站点.." 
+
+# 1. 明确指定主题名称（这是 Submodule 模式的关键）
+theme = "hugo-theme-gallery"
+
+# 2. 确保首页显示 movies 目录下的内容
+mainSections = ["movies"] 
 
 [params]
-  # 默认在首页显示的描述
   description = "MACCMS 数据成功迁移到 Hugo 静态网站。"
-# Deployment_Trigger_Final_Attempt_1
